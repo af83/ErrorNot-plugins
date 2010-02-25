@@ -1,6 +1,5 @@
 module Resque::ProjectTask
 
-
   class NotifyEmail
 
     @queue = :mail
